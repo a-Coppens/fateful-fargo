@@ -1,0 +1,31 @@
+[
+    {
+        "Name": "Bronze Helmet",
+        "Type": 1,
+        "Description": "Slightly Better than nothing",
+        "Value": 5,
+        "StatModifier": 4
+        
+    },
+    {
+        "Name": "Iron Helmet",
+        "Type": 1,
+        "Description": "A Sword made from the purest Iron in the Region.",
+        "Value": 20,
+        "StatModifier": 8
+    },
+    {
+        "Name": "Bronze Sword",
+        "Type": 0,
+        "Description": "A blunt sword... if you can call it that.",
+        "Value": 5,
+        "StatModifier": 5
+    },
+    {
+        "Name": "Iron Sword",
+        "Type": 0,
+        "Description": "A Sword made from the purest Iron in the Region.",
+        "Value": 20,
+        "StatModifier": 8
+    }
+]
